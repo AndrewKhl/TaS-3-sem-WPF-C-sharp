@@ -1,0 +1,7 @@
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ИСП 3 семестр\AddOnLAbWork2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,15 @@
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\ИСП 3 семестр\Lab Work 1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
